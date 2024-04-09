@@ -21,6 +21,6 @@ day, night
 ## Data format
 .jpg, .json
 ## Accuracy
-the qualification rate of the bounding box is not less than 95%, the accuracy of label annotation is not
+the qualification rate of the bounding box is not less than 95%, the accuracy of label annotation is not less than 95%
 # Licensing Information
 Commercial License
